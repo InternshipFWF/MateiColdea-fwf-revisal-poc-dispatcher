@@ -83,6 +83,48 @@
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "8d158369-344e-4029-b44e-125a0835f700",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\TestCase_ReadEmails.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "419a4dd0-40ec-4b8d-80bb-708ce15a51db",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\TestCase_FilterBySender.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "944b5188-02c6-4fbd-bcc1-396e3fdd8b5e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\TestCase_CreateQueueItem.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bbd09032-01b7-4602-8715-0adec1ff561c",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\TestCase_CheckAttachement.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0737bce4-701f-4d96-bc22-40db5704e237",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\TestCase_FilterEmails.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3814760d-feba-4ec7-aab4-d4a0f3471338",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\TestCase_AddQueueItem.xaml"
       }
     ],
     "modernBehavior": true
